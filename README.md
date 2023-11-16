@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRodrigues51&layout=compact)](https://github.com/MRodrigues51)
 
 
-Passionate about technology and how this world behind binary works. My curiosity to know how things work led me to this world. Always excited to learn and share code. 🚀
+Passionate about technology and how this world behind binary works. My curiosity to know how things work led me to this world. Always excited to learn and share code. 
 
 ## Contact
 
